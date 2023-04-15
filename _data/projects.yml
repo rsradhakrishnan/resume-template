@@ -1,16 +1,23 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Cryto Wallet
+  #role: Founder & Primary Developer
+  #duration: 2012 &mdash; Present
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Crypto Currency Portfolio with Predictive Analytics for Investors. <ul class="resume-item-list"><li>Developed an ETL pipeline for sourcing and storing data from Crypto APIs into S3 buckets using Python and Apache Airflow. Analyzed and made predictions on the data using PySpark ML models.</li>
+            <li>Implemented a web application using Angular and Flask to present the portfolio and predictions to investors.</li>
+            <li>Deployed the Dockerized application on Google Kubernetes Engine using Rancher installed on AWS EC2.</li>
+            <li>Gained experience in dealing with massive data and data engineering concepts and various technologies including Python, PySpark, Apache Airflow. Got real-time hands on DevOps tools and learnt to deploy applications on cross cloud platforms for cost optimization.</li>
+            </ul>
+
+
+
+
+# # Springfield Community Outreach Group
+# - project: Springfield Community Outreach Group
+#   role: Co-Founder & Organizer
+#   duration: 2007 &mdash; Present
+#   # url: "#"
+#   description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
