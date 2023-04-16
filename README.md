@@ -11,9 +11,12 @@ To test locally, run the following in your terminal:
    This will create a new Gemfile.
 6. Open the Gemfile in a text editor.
 7. Remove the existing contents. Then paste in the following:
-   `source "https://rubygems.org"\
-     gem 'wdm'\
-     gem 'jekyll'`
+   ```
+   source "https://rubygems.org"
+     gem 'wdm'
+     gem 'jekyll'
+     
+     ```
 8. Save and close the file.
 9. Type `bundle install`.
 
