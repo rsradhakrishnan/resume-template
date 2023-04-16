@@ -1,6 +1,10 @@
 # Site settings
 title: "Sreenivasa's Portfolio"
 description: "sreenivasa's Portfolio site"
+baseurl: rsradhakrishan.github.io
+
+
+
 
 # Build settings
 markdown: kramdown
