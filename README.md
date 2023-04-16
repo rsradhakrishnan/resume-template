@@ -29,3 +29,7 @@ To test locally with docker, run the following in your terminal after installing
 1. `docker image build -t resume-template .`
 2. `docker run --rm --name resume-template -v "$PWD":/home/app --network host resume-template`
 
+
+
+#### Credits
+This Project is inspired from [@jglovier](https://github.com/jglovier/resume-template)
